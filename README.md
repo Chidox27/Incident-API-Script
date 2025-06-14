@@ -2,11 +2,9 @@
 
 Fetches mock incident data from a public API (jsonplaceholder.typicode.com), simulating ServiceNow ticket retrieval for Reliability Engineering tasks.
 
-## Usage
-- Run in PowerShell: `.\Incident-API-Script.ps1`
-
 ## Skills Learned
 - PowerShell
+- Python
 - REST API interaction
 - VS Code debugging
 
